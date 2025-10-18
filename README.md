@@ -1,10 +1,9 @@
 # Bike Sales Dashboard
 
-An interactive data visualization dashboard analyzing bike purchase patterns across various demographic and geographic segments. This dashboard provides comprehensive insights into customer behavior, purchasing trends, and market segments.
-
 ## 📊 Dashboard Overview
 
 The Bike Sales Dashboard presents multi-dimensional analysis of bike sales data through interactive visualizations and filtering capabilities, helping businesses understand their customer base and make data-driven decisions.
+
 ![](https://github.com/Rajni0327/Excel-Dashboard-Bike-Sales/blob/main/Screenshot%202025-10-18%20170808.png)
 
 
