@@ -105,7 +105,6 @@ The Bike Sales Dashboard presents multi-dimensional analysis of bike sales data 
 4. **Customer Segmentation**
    - Identify high-value customer profiles
    - Understand barriers to purchase in low-adoption segments
-   - Create targeted retention strategies
 
 ### Data Dimensions
 - Gender
@@ -116,9 +115,3 @@ The Bike Sales Dashboard presents multi-dimensional analysis of bike sales data 
 - Commute Distance
 - Income
 - Purchase Status
-
-### Interactivity Features
-- Multi-select filters with cross-filtering capability
-- Dynamic chart updates based on filter selections
-- Drill-down capabilities on visualizations
-- Comparative analysis (Yes/No purchase status)
